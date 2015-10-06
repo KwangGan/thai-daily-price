@@ -1,0 +1,74 @@
+/**
+
+ * All of the CSS for your public-facing functionality should be
+
+ * included in this file.
+
+ */
+ 
+.price {
+ text-align:center;
+}
+
+.price-high{
+ color:#FFF;
+ background-color:red;
+}
+
+.price-low{
+ color:#FFF;
+ background-color:green;
+}
+
+
+.diesel{
+color: #ffffff;
+background-color: #01A7E5;
+
+ }
+
+
+
+ .e20{
+color: #ffffff;
+background-color: #99CA10;
+
+ }
+
+
+
+ .e85{
+
+color: #ffffff;
+background-color: #A9228A;
+
+ }
+
+
+
+ .so91{
+color: #ffffff;
+background-color: #048A4B;
+
+ }
+
+
+
+ .so95{
+color: #ffffff;
+background-color: #F4A21A ;
+
+ }
+
+
+
+ .ngv{
+color: #ffffff;
+background-color: #0763AC;
+
+ }
+
+
+
+
+
